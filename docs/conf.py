@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "Basic Sphinx Example Project"
-copyright = "2022, Read the Docs core team"
-author = "Read the Docs core team"
+project = "QVision Documentation"
+copyright = "2024, QVision Dev Team"
+author = "QVision Dev Team"
 
 
 # -- General configuration ---------------------------------------------------
